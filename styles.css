@@ -1,0 +1,42 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+  }
+  
+  .header {
+    text-align: center;
+    margin: 0%;
+    height: 100px;
+    background-color: #e6dfa8;
+    color: black;
+  }
+  
+ 
+  
+  .container {
+	font-size:40px;
+	font-family: 'Red Hat Display', sans-serif;
+	letter-spacing:1.5px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width:600px;
+	height:40px;
+    text-align: ;
+  }
+  
+  .container * {
+	display:inline-block;
+	overflow:hidden;
+	position:absolute;
+  }
+  
+  .bar {
+	width:3px;
+	height:49px;
+	position:absolute;
+	top:-1px;
+  }
